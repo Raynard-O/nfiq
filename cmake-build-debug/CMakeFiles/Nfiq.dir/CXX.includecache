@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/raynardomongbale/CLionProjects/Nfiq/main.cpp
+iostream
+-
+nfiqlib.h
+/Users/raynardomongbale/CLionProjects/Nfiq/nfiqlib.h
+thread
+/Users/raynardomongbale/CLionProjects/Nfiq/thread
+atomic
+-
+chrono
+-
+unistd.h
+-
+
+/Users/raynardomongbale/CLionProjects/Nfiq/nfiqlib.h
+
