@@ -31,6 +31,35 @@ CMakeFiles/Nfiq.dir/nfiqlib.c.o
  ../include/zconf.h
  ../include/zlib.h
  /Users/raynardomongbale/CLionProjects/nfiq/nfiqlib.c
+CMakeFiles/Nfiq.dir/wsqlib.c.o
+ ../include/an2k.h
+ ../include/computil.h
+ ../include/dataio.h
+ ../include/fet.h
+ ../include/ihead.h
+ ../include/img_io.h
+ ../include/imgdecod.h
+ ../include/imgtype.h
+ ../include/imgutil.h
+ ../include/ioutil.h
+ ../include/jconfig.h
+ ../include/jerror.h
+ ../include/jmorecfg.h
+ ../include/jpegb.h
+ ../include/jpegint.h
+ ../include/jpegl.h
+ ../include/jpeglib.h
+ ../include/memalloc.h
+ ../include/nistcom.h
+ ../include/png.h
+ ../include/pngconf.h
+ ../include/util.h
+ ../include/wsq.h
+ ../include/zconf.h
+ ../include/zlib.h
+ /Users/raynardomongbale/CLionProjects/nfiq/wsqlib.c
+ /Users/raynardomongbale/CLionProjects/nfiq/wsqlib.h
 CMakeFiles/Nfiq.dir/main.cpp.o
  /Users/raynardomongbale/CLionProjects/nfiq/main.cpp
  /Users/raynardomongbale/CLionProjects/nfiq/nfiqlib.h
+ /Users/raynardomongbale/CLionProjects/nfiq/wsqlib.h
