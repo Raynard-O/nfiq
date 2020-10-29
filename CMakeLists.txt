@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.15)
 set(CMAKE_STANDARD_CXX 14)
 SET(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11 -pthread")
 
-set(SOURCE main.cpp nfiqlib.c)
+set(SOURCE main.cpp nfiqlib.c wsqlib.c wsqlib.h)
 
 add_executable(Nfiq ${SOURCE})
 

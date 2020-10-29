@@ -197,6 +197,33 @@ nfiqlib.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Nfiq.dir/build.make CMakeFiles/Nfiq.dir/nfiqlib.c.s
 .PHONY : nfiqlib.c.s
 
+wsqlib.o: wsqlib.c.o
+
+.PHONY : wsqlib.o
+
+# target to build an object file
+wsqlib.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Nfiq.dir/build.make CMakeFiles/Nfiq.dir/wsqlib.c.o
+.PHONY : wsqlib.c.o
+
+wsqlib.i: wsqlib.c.i
+
+.PHONY : wsqlib.i
+
+# target to preprocess a source file
+wsqlib.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Nfiq.dir/build.make CMakeFiles/Nfiq.dir/wsqlib.c.i
+.PHONY : wsqlib.c.i
+
+wsqlib.s: wsqlib.c.s
+
+.PHONY : wsqlib.s
+
+# target to generate assembly for a file
+wsqlib.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Nfiq.dir/build.make CMakeFiles/Nfiq.dir/wsqlib.c.s
+.PHONY : wsqlib.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -212,6 +239,9 @@ help:
 	@echo "... nfiqlib.o"
 	@echo "... nfiqlib.i"
 	@echo "... nfiqlib.s"
+	@echo "... wsqlib.o"
+	@echo "... wsqlib.i"
+	@echo "... wsqlib.s"
 .PHONY : help
 
 

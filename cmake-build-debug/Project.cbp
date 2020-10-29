@@ -91,6 +91,12 @@
 		<Unit filename="/Users/raynardomongbale/CLionProjects/nfiq/nfiqlib.h">
 			<Option target="Nfiq"/>
 		</Unit>
+		<Unit filename="/Users/raynardomongbale/CLionProjects/nfiq/wsqlib.c">
+			<Option target="Nfiq"/>
+		</Unit>
+		<Unit filename="/Users/raynardomongbale/CLionProjects/nfiq/wsqlib.h">
+			<Option target="Nfiq"/>
+		</Unit>
 		<Unit filename="/Users/raynardomongbale/CLionProjects/nfiq/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

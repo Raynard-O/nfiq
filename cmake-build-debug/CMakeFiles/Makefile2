@@ -94,12 +94,12 @@ clean: CMakeFiles/Nfiq.dir/clean
 CMakeFiles/Nfiq.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Nfiq.dir/build.make CMakeFiles/Nfiq.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Nfiq.dir/build.make CMakeFiles/Nfiq.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/raynardomongbale/CLionProjects/nfiq/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target Nfiq"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/raynardomongbale/CLionProjects/nfiq/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4 "Built target Nfiq"
 .PHONY : CMakeFiles/Nfiq.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Nfiq.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/raynardomongbale/CLionProjects/nfiq/cmake-build-debug/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/raynardomongbale/CLionProjects/nfiq/cmake-build-debug/CMakeFiles 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Nfiq.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/raynardomongbale/CLionProjects/nfiq/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Nfiq.dir/rule
