@@ -9,9 +9,7 @@
 extern "C" {
 #endif
 
-
-int wsq(char *);  //Returns image quality value
-
+int convert_wsq(char *ifile);  //Returns image quality value
 
 #ifdef __cplusplus
 }

@@ -1,5 +1,6 @@
 
 #include "nfiqlib.h"
+#include "wsqlib.h"
 #include "thread"
 
 int debug = 0;
@@ -7,7 +8,11 @@ int debug = 0;
 int main() {
 
     int f1;
-    f1 = nfiq("./image_02.wsq");
+    auto err = convert_wsq("./image.jpegl");
+    if (err != 0 ){
+        return err;
+    }
+    f1 = nfiq("./image_12.wsq");
 
     printf("\n%d", f1);
 
