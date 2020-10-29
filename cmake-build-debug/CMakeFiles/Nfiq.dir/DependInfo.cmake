@@ -5,7 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/raynardomongbale/CLionProjects/Nfiq/nfiqlib.c" "/Users/raynardomongbale/CLionProjects/Nfiq/cmake-build-debug/CMakeFiles/Nfiq.dir/nfiqlib.c.o"
+  "/Users/raynardomongbale/CLionProjects/nfiq/nfiqlib.c" "/Users/raynardomongbale/CLionProjects/nfiq/cmake-build-debug/CMakeFiles/Nfiq.dir/nfiqlib.c.o"
   )
 set(CMAKE_C_COMPILER_ID "Clang")
 
@@ -14,7 +14,7 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
   "../include"
   )
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/raynardomongbale/CLionProjects/Nfiq/main.cpp" "/Users/raynardomongbale/CLionProjects/Nfiq/cmake-build-debug/CMakeFiles/Nfiq.dir/main.cpp.o"
+  "/Users/raynardomongbale/CLionProjects/nfiq/main.cpp" "/Users/raynardomongbale/CLionProjects/nfiq/cmake-build-debug/CMakeFiles/Nfiq.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "Clang")
 

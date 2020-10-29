@@ -6,19 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/raynardomongbale/CLionProjects/Nfiq/main.cpp
-iostream
--
+/Users/raynardomongbale/CLionProjects/nfiq/main.cpp
 nfiqlib.h
-/Users/raynardomongbale/CLionProjects/Nfiq/nfiqlib.h
+/Users/raynardomongbale/CLionProjects/nfiq/nfiqlib.h
 thread
-/Users/raynardomongbale/CLionProjects/Nfiq/thread
-atomic
--
-chrono
--
-unistd.h
--
+/Users/raynardomongbale/CLionProjects/nfiq/thread
 
-/Users/raynardomongbale/CLionProjects/Nfiq/nfiqlib.h
+/Users/raynardomongbale/CLionProjects/nfiq/nfiqlib.h
 
